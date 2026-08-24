@@ -4,7 +4,6 @@ import AddIcon from "@mui/icons-material/Add";
 import TaskTable from "./TaskTable";
 import TaskModal from "./TaskModal";
 import { LoadingIndicator } from "./LoadingIndicator";
-import { AddCircleRounded } from "@mui/icons-material";
 import { useTask } from "../hooks/useTask";
 import { useTaskManager } from "../hooks/useTaskManager";
 import { downloadFile } from "../utils";
